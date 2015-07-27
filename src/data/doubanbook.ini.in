@@ -1,0 +1,13 @@
+[ScopeConfig]
+_DisplayName = 豆瓣图书
+_Description =This is a DoubanBook scope
+Art = screenshot.png
+Author = Qi, Tian
+Icon = icon.png
+Keywords = books
+
+[Appearance]
+PageHeader.Logo=logo.png
+PageHeader.ForegroundColor = #339933
+PageHeader.DividerColor = #339933
+PreviewButtonColor = #339933

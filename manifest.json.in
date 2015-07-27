@@ -1,0 +1,15 @@
+{
+    "architecture": "@CLICK_ARCH@",
+    "description": "A simple Unity scope that accesses the network",
+    "framework": "ubuntu-sdk-15.04",
+    "hooks": {
+        "doubanbook": {
+            "apparmor": "doubanbook.apparmor",
+            "scope": "doubanbook"
+        }
+    },
+    "maintainer": "Qi,Tian <kitian616@outlook.com>",
+    "name": "doubanbookscope.kitian616",
+    "title": "doubanbookscope",
+    "version": "0.6"
+}
