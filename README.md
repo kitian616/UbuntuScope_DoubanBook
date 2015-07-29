@@ -1,6 +1,5 @@
 # 豆瓣图书 scope for Ubuntu Phone
 
----
 一款豆瓣图书scope，适用于 Ubuntu Phone ARM 设备。
 
 你可以在 Ubuntu Software Center 中搜索"豆瓣图书"找到该应用，欢迎有 Ubuntu Phone 的朋友下载使用，并提出宝贵的意见。
