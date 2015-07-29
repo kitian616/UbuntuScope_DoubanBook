@@ -9,13 +9,13 @@
 - 查看图书评分和标签等信息
 - 引导到该图书的界面
 
-![screenshot](https://myapps.developer.ubuntu.com/site_media/appmedia/2015/07/2_4.png)
+![screenshot](https://myapps.developer.ubuntu.com/site_media/appmedia/2015/07/1_5.png)
 #### 多种搜索方式
 
-![screenshot](https://myapps.developer.ubuntu.com/site_media/appmedia/2015/07/3_4.png)
+![screenshot](https://myapps.developer.ubuntu.com/site_media/appmedia/2015/07/3_5.png)
 #### 按标签搜索
 
-![screenshot](https://myapps.developer.ubuntu.com/site_media/appmedia/2015/07/4_3.png)
+![screenshot](https://myapps.developer.ubuntu.com/site_media/appmedia/2015/07/5_4.png)
 #### 图书详情
 
 ### NEXT STEP
